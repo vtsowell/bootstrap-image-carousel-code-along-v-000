@@ -107,6 +107,6 @@ img, video, audio, iframe, table, form {
 
 @media only screen and (min-width: 1200px) {
   #carousel-example-generic .item img {
-    height: 601px;
+    height: 600px;
   }
 }
